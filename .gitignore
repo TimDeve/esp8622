@@ -1,2 +1,4 @@
 lua/basic-http-server/config.lua
 .nodemcutool
+.vscode
+build
